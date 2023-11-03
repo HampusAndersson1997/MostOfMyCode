@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\bin\Debug\net7.0\DTPD6Lektion.exe
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\bin\Debug\net7.0\DTPD6Lektion.deps.json
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\bin\Debug\net7.0\DTPD6Lektion.runtimeconfig.json
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\bin\Debug\net7.0\DTPD6Lektion.dll
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\bin\Debug\net7.0\DTPD6Lektion.pdb
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.dll
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\refint\DTPD6Lektion.dll
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.pdb
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\DTPD6Lektion.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\DTPD6Lektion\DTPD6Lektion\obj\Debug\net7.0\ref\DTPD6Lektion.dll

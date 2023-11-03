@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D161\D161\bin\Debug\net6.0\D161.exe
+C:\Users\Hampus\source\repos\D161\D161\bin\Debug\net6.0\D161.deps.json
+C:\Users\Hampus\source\repos\D161\D161\bin\Debug\net6.0\D161.runtimeconfig.json
+C:\Users\Hampus\source\repos\D161\D161\bin\Debug\net6.0\D161.dll
+C:\Users\Hampus\source\repos\D161\D161\bin\Debug\net6.0\D161.pdb
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.dll
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\refint\D161.dll
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.pdb
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\D161.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D161\D161\obj\Debug\net6.0\ref\D161.dll

@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\bin\Debug\net7.0\DTP-D6-ovn-1.exe
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\bin\Debug\net7.0\DTP-D6-ovn-1.deps.json
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\bin\Debug\net7.0\DTP-D6-ovn-1.runtimeconfig.json
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\bin\Debug\net7.0\DTP-D6-ovn-1.dll
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\bin\Debug\net7.0\DTP-D6-ovn-1.pdb
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.dll
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\refint\DTP-D6-ovn-1.dll
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.pdb
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\DTP-D6-ovn-1.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\DTP-D6-ovn-1\DTP-D6-ovn-1\obj\Debug\net7.0\ref\DTP-D6-ovn-1.dll

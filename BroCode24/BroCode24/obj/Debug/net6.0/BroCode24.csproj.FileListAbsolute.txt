@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\bin\Debug\net6.0\BroCode24.exe
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\bin\Debug\net6.0\BroCode24.deps.json
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\bin\Debug\net6.0\BroCode24.runtimeconfig.json
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\bin\Debug\net6.0\BroCode24.dll
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\bin\Debug\net6.0\BroCode24.pdb
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.dll
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\refint\BroCode24.dll
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.pdb
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\BroCode24.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\BroCode24\BroCode24\obj\Debug\net6.0\ref\BroCode24.dll

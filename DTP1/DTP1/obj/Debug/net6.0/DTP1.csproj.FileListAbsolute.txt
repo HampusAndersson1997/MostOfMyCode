@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\DTP1\DTP1\bin\Debug\net6.0\DTP1.exe
+C:\Users\Hampus\source\repos\DTP1\DTP1\bin\Debug\net6.0\DTP1.deps.json
+C:\Users\Hampus\source\repos\DTP1\DTP1\bin\Debug\net6.0\DTP1.runtimeconfig.json
+C:\Users\Hampus\source\repos\DTP1\DTP1\bin\Debug\net6.0\DTP1.dll
+C:\Users\Hampus\source\repos\DTP1\DTP1\bin\Debug\net6.0\DTP1.pdb
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.dll
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\refint\DTP1.dll
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.pdb
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\DTP1.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\DTP1\DTP1\obj\Debug\net6.0\ref\DTP1.dll

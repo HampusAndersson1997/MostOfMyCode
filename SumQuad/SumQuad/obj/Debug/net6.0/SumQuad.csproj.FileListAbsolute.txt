@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\bin\Debug\net6.0\SumQuad.exe
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\bin\Debug\net6.0\SumQuad.deps.json
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\bin\Debug\net6.0\SumQuad.runtimeconfig.json
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\bin\Debug\net6.0\SumQuad.dll
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\bin\Debug\net6.0\SumQuad.pdb
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.dll
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\refint\SumQuad.dll
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.pdb
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\SumQuad.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\SumQuad\SumQuad\obj\Debug\net6.0\ref\SumQuad.dll

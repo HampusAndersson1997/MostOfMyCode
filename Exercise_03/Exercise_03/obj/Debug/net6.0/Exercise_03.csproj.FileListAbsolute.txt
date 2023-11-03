@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\bin\Debug\net6.0\Exercise_03.exe
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\bin\Debug\net6.0\Exercise_03.deps.json
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\bin\Debug\net6.0\Exercise_03.runtimeconfig.json
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\bin\Debug\net6.0\Exercise_03.dll
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\bin\Debug\net6.0\Exercise_03.pdb
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.dll
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\refint\Exercise_03.dll
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.pdb
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\Exercise_03.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Exercise_03\Exercise_03\obj\Debug\net6.0\ref\Exercise_03.dll

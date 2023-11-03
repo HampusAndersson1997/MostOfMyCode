@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Typecast\Typecast\bin\Debug\net6.0\Typecast.exe
+C:\Users\Hampus\source\repos\Typecast\Typecast\bin\Debug\net6.0\Typecast.deps.json
+C:\Users\Hampus\source\repos\Typecast\Typecast\bin\Debug\net6.0\Typecast.runtimeconfig.json
+C:\Users\Hampus\source\repos\Typecast\Typecast\bin\Debug\net6.0\Typecast.dll
+C:\Users\Hampus\source\repos\Typecast\Typecast\bin\Debug\net6.0\Typecast.pdb
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.dll
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\refint\Typecast.dll
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.pdb
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\Typecast.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Typecast\Typecast\obj\Debug\net6.0\ref\Typecast.dll

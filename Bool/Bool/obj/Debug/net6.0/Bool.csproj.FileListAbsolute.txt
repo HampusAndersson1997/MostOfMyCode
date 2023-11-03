@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Bool\Bool\bin\Debug\net6.0\Bool.exe
+C:\Users\Hampus\source\repos\Bool\Bool\bin\Debug\net6.0\Bool.deps.json
+C:\Users\Hampus\source\repos\Bool\Bool\bin\Debug\net6.0\Bool.runtimeconfig.json
+C:\Users\Hampus\source\repos\Bool\Bool\bin\Debug\net6.0\Bool.dll
+C:\Users\Hampus\source\repos\Bool\Bool\bin\Debug\net6.0\Bool.pdb
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.dll
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\refint\Bool.dll
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.pdb
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\Bool.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Bool\Bool\obj\Debug\net6.0\ref\Bool.dll

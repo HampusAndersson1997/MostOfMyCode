@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D139\D139\bin\Debug\net6.0\D139.exe
+C:\Users\Hampus\source\repos\D139\D139\bin\Debug\net6.0\D139.deps.json
+C:\Users\Hampus\source\repos\D139\D139\bin\Debug\net6.0\D139.runtimeconfig.json
+C:\Users\Hampus\source\repos\D139\D139\bin\Debug\net6.0\D139.dll
+C:\Users\Hampus\source\repos\D139\D139\bin\Debug\net6.0\D139.pdb
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.dll
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\refint\D139.dll
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.pdb
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\D139.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D139\D139\obj\Debug\net6.0\ref\D139.dll

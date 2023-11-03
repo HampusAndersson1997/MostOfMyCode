@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Division\Division\bin\Debug\net6.0\Division.exe
+C:\Users\Hampus\source\repos\Division\Division\bin\Debug\net6.0\Division.deps.json
+C:\Users\Hampus\source\repos\Division\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+C:\Users\Hampus\source\repos\Division\Division\bin\Debug\net6.0\Division.dll
+C:\Users\Hampus\source\repos\Division\Division\bin\Debug\net6.0\Division.pdb
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.dll
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\refint\Division.dll
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.pdb
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Division\Division\obj\Debug\net6.0\ref\Division.dll

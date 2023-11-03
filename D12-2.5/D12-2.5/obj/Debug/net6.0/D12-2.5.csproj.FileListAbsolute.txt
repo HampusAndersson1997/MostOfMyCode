@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\bin\Debug\net6.0\D12-2.5.exe
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\bin\Debug\net6.0\D12-2.5.deps.json
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\bin\Debug\net6.0\D12-2.5.runtimeconfig.json
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\bin\Debug\net6.0\D12-2.5.dll
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\bin\Debug\net6.0\D12-2.5.pdb
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.dll
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\refint\D12-2.5.dll
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.pdb
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\D12-2.5.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D12-2.5\D12-2.5\obj\Debug\net6.0\ref\D12-2.5.dll

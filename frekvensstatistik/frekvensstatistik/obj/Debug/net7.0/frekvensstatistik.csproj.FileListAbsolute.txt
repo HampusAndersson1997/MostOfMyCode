@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\bin\Debug\net7.0\frekvensstatistik.exe
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\bin\Debug\net7.0\frekvensstatistik.deps.json
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\bin\Debug\net7.0\frekvensstatistik.runtimeconfig.json
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\bin\Debug\net7.0\frekvensstatistik.dll
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\bin\Debug\net7.0\frekvensstatistik.pdb
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.dll
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\refint\frekvensstatistik.dll
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.pdb
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\frekvensstatistik.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\frekvensstatistik\frekvensstatistik\obj\Debug\net7.0\ref\frekvensstatistik.dll

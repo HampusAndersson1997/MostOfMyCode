@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D137\D137\bin\Debug\net6.0\D137.exe
+C:\Users\Hampus\source\repos\D137\D137\bin\Debug\net6.0\D137.deps.json
+C:\Users\Hampus\source\repos\D137\D137\bin\Debug\net6.0\D137.runtimeconfig.json
+C:\Users\Hampus\source\repos\D137\D137\bin\Debug\net6.0\D137.dll
+C:\Users\Hampus\source\repos\D137\D137\bin\Debug\net6.0\D137.pdb
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.dll
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\refint\D137.dll
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.pdb
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\D137.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D137\D137\obj\Debug\net6.0\ref\D137.dll

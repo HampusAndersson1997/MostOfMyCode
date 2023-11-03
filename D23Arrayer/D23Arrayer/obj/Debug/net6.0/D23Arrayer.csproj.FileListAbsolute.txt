@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\bin\Debug\net6.0\D23Arrayer.exe
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\bin\Debug\net6.0\D23Arrayer.deps.json
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\bin\Debug\net6.0\D23Arrayer.runtimeconfig.json
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\bin\Debug\net6.0\D23Arrayer.dll
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\bin\Debug\net6.0\D23Arrayer.pdb
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.dll
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\refint\D23Arrayer.dll
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.pdb
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\D23Arrayer.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D23Arrayer\D23Arrayer\obj\Debug\net6.0\ref\D23Arrayer.dll

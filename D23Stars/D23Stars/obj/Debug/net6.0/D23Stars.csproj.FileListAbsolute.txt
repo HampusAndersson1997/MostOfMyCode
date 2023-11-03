@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\bin\Debug\net6.0\D23Stars.exe
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\bin\Debug\net6.0\D23Stars.deps.json
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\bin\Debug\net6.0\D23Stars.runtimeconfig.json
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\bin\Debug\net6.0\D23Stars.dll
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\bin\Debug\net6.0\D23Stars.pdb
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.dll
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\refint\D23Stars.dll
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.pdb
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\D23Stars.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D23Stars\D23Stars\obj\Debug\net6.0\ref\D23Stars.dll

@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Typecast\Loopar\bin\Debug\net6.0\Loopar.exe
+C:\Users\Hampus\source\repos\Typecast\Loopar\bin\Debug\net6.0\Loopar.deps.json
+C:\Users\Hampus\source\repos\Typecast\Loopar\bin\Debug\net6.0\Loopar.runtimeconfig.json
+C:\Users\Hampus\source\repos\Typecast\Loopar\bin\Debug\net6.0\Loopar.dll
+C:\Users\Hampus\source\repos\Typecast\Loopar\bin\Debug\net6.0\Loopar.pdb
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.dll
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\refint\Loopar.dll
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.pdb
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\Loopar.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Typecast\Loopar\obj\Debug\net6.0\ref\Loopar.dll

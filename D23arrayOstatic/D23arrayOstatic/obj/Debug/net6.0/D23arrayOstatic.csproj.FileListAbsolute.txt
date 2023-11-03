@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\bin\Debug\net6.0\D23arrayOstatic.exe
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\bin\Debug\net6.0\D23arrayOstatic.deps.json
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\bin\Debug\net6.0\D23arrayOstatic.runtimeconfig.json
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\bin\Debug\net6.0\D23arrayOstatic.dll
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\bin\Debug\net6.0\D23arrayOstatic.pdb
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.dll
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\refint\D23arrayOstatic.dll
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.pdb
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\D23arrayOstatic.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D23arrayOstatic\D23arrayOstatic\obj\Debug\net6.0\ref\D23arrayOstatic.dll

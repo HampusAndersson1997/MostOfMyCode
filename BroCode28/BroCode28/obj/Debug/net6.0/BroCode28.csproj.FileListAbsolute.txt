@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\bin\Debug\net6.0\BroCode28.exe
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\bin\Debug\net6.0\BroCode28.deps.json
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\bin\Debug\net6.0\BroCode28.runtimeconfig.json
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\bin\Debug\net6.0\BroCode28.dll
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\bin\Debug\net6.0\BroCode28.pdb
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.dll
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\refint\BroCode28.dll
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.pdb
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\BroCode28.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\BroCode28\BroCode28\obj\Debug\net6.0\ref\BroCode28.dll

@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\länklista\länklista\bin\Debug\net7.0\länklista.exe
+C:\Users\Hampus\source\repos\länklista\länklista\bin\Debug\net7.0\länklista.deps.json
+C:\Users\Hampus\source\repos\länklista\länklista\bin\Debug\net7.0\länklista.runtimeconfig.json
+C:\Users\Hampus\source\repos\länklista\länklista\bin\Debug\net7.0\länklista.dll
+C:\Users\Hampus\source\repos\länklista\länklista\bin\Debug\net7.0\länklista.pdb
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.dll
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\refint\länklista.dll
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.pdb
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\länklista.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\länklista\länklista\obj\Debug\net7.0\ref\länklista.dll

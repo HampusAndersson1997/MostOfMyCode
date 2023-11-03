@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\bin\Debug\net7.0\dtp1.2.exe
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\bin\Debug\net7.0\dtp1.2.deps.json
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\bin\Debug\net7.0\dtp1.2.runtimeconfig.json
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\bin\Debug\net7.0\dtp1.2.dll
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\bin\Debug\net7.0\dtp1.2.pdb
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.dll
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\refint\dtp1.2.dll
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.pdb
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\dtp1.2.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\dtp1.2\dtp1.2\obj\Debug\net7.0\ref\dtp1.2.dll

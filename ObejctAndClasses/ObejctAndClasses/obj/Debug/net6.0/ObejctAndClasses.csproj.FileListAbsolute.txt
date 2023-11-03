@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\bin\Debug\net6.0\ObejctAndClasses.exe
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\bin\Debug\net6.0\ObejctAndClasses.deps.json
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\bin\Debug\net6.0\ObejctAndClasses.runtimeconfig.json
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\bin\Debug\net6.0\ObejctAndClasses.dll
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\bin\Debug\net6.0\ObejctAndClasses.pdb
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.dll
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\refint\ObejctAndClasses.dll
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.pdb
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ObejctAndClasses.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\ObejctAndClasses\ObejctAndClasses\obj\Debug\net6.0\ref\ObejctAndClasses.dll

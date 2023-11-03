@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\24102023\24102023\bin\Debug\net7.0\24102023.exe
+C:\Users\Hampus\source\repos\24102023\24102023\bin\Debug\net7.0\24102023.deps.json
+C:\Users\Hampus\source\repos\24102023\24102023\bin\Debug\net7.0\24102023.runtimeconfig.json
+C:\Users\Hampus\source\repos\24102023\24102023\bin\Debug\net7.0\24102023.dll
+C:\Users\Hampus\source\repos\24102023\24102023\bin\Debug\net7.0\24102023.pdb
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.dll
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\refint\24102023.dll
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.pdb
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\24102023.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\24102023\24102023\obj\Debug\net7.0\ref\24102023.dll

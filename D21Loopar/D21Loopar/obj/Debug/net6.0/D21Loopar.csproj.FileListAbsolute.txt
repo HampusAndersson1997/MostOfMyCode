@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\bin\Debug\net6.0\D21Loopar.exe
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\bin\Debug\net6.0\D21Loopar.deps.json
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\bin\Debug\net6.0\D21Loopar.runtimeconfig.json
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\bin\Debug\net6.0\D21Loopar.dll
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\bin\Debug\net6.0\D21Loopar.pdb
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.dll
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\refint\D21Loopar.dll
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.pdb
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\D21Loopar.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D21Loopar\D21Loopar\obj\Debug\net6.0\ref\D21Loopar.dll

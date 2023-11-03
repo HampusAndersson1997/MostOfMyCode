@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\bin\Debug\net7.0\Ordräknare.exe
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\bin\Debug\net7.0\Ordräknare.deps.json
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\bin\Debug\net7.0\Ordräknare.runtimeconfig.json
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\bin\Debug\net7.0\Ordräknare.dll
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\bin\Debug\net7.0\Ordräknare.pdb
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.dll
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\refint\Ordräknare.dll
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.pdb
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\Ordräknare.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Ordräknare\Ordräknare\obj\Debug\net7.0\ref\Ordräknare.dll

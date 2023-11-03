@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D2118\D2118\bin\Debug\net6.0\D2118.exe
+C:\Users\Hampus\source\repos\D2118\D2118\bin\Debug\net6.0\D2118.deps.json
+C:\Users\Hampus\source\repos\D2118\D2118\bin\Debug\net6.0\D2118.runtimeconfig.json
+C:\Users\Hampus\source\repos\D2118\D2118\bin\Debug\net6.0\D2118.dll
+C:\Users\Hampus\source\repos\D2118\D2118\bin\Debug\net6.0\D2118.pdb
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.dll
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\refint\D2118.dll
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.pdb
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\D2118.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D2118\D2118\obj\Debug\net6.0\ref\D2118.dll

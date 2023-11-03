@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\bin\Debug\net6.0\BroCode30.exe
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\bin\Debug\net6.0\BroCode30.deps.json
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\bin\Debug\net6.0\BroCode30.runtimeconfig.json
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\bin\Debug\net6.0\BroCode30.dll
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\bin\Debug\net6.0\BroCode30.pdb
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.dll
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\refint\BroCode30.dll
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.pdb
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\BroCode30.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\BroCode30\BroCode30\obj\Debug\net6.0\ref\BroCode30.dll

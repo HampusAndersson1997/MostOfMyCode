@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D2115\D2115\bin\Debug\net6.0\D2115.exe
+C:\Users\Hampus\source\repos\D2115\D2115\bin\Debug\net6.0\D2115.deps.json
+C:\Users\Hampus\source\repos\D2115\D2115\bin\Debug\net6.0\D2115.runtimeconfig.json
+C:\Users\Hampus\source\repos\D2115\D2115\bin\Debug\net6.0\D2115.dll
+C:\Users\Hampus\source\repos\D2115\D2115\bin\Debug\net6.0\D2115.pdb
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.dll
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\refint\D2115.dll
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.pdb
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\D2115.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D2115\D2115\obj\Debug\net6.0\ref\D2115.dll

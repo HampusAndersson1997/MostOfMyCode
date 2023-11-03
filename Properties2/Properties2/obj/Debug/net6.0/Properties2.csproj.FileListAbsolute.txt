@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Properties2\Properties2\bin\Debug\net6.0\Properties2.exe
+C:\Users\Hampus\source\repos\Properties2\Properties2\bin\Debug\net6.0\Properties2.deps.json
+C:\Users\Hampus\source\repos\Properties2\Properties2\bin\Debug\net6.0\Properties2.runtimeconfig.json
+C:\Users\Hampus\source\repos\Properties2\Properties2\bin\Debug\net6.0\Properties2.dll
+C:\Users\Hampus\source\repos\Properties2\Properties2\bin\Debug\net6.0\Properties2.pdb
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.dll
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\refint\Properties2.dll
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.pdb
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\Properties2.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Properties2\Properties2\obj\Debug\net6.0\ref\Properties2.dll

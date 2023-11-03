@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\bin\Debug\net7.0\dtp_mju23v_latinskordlistafas1.exe
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\bin\Debug\net7.0\dtp_mju23v_latinskordlistafas1.deps.json
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\bin\Debug\net7.0\dtp_mju23v_latinskordlistafas1.runtimeconfig.json
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\bin\Debug\net7.0\dtp_mju23v_latinskordlistafas1.dll
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\bin\Debug\net7.0\dtp_mju23v_latinskordlistafas1.pdb
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.dll
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\refint\dtp_mju23v_latinskordlistafas1.dll
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.pdb
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\dtp_mju23v_latinskordlistafas1.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\dtp_mju23v_latinskordlistafas1\dtp_mju23v_latinskordlistafas1\obj\Debug\net7.0\ref\dtp_mju23v_latinskordlistafas1.dll

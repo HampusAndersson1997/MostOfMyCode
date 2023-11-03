@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D1313\D1313\bin\Debug\net6.0\D1313.exe
+C:\Users\Hampus\source\repos\D1313\D1313\bin\Debug\net6.0\D1313.deps.json
+C:\Users\Hampus\source\repos\D1313\D1313\bin\Debug\net6.0\D1313.runtimeconfig.json
+C:\Users\Hampus\source\repos\D1313\D1313\bin\Debug\net6.0\D1313.dll
+C:\Users\Hampus\source\repos\D1313\D1313\bin\Debug\net6.0\D1313.pdb
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.dll
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\refint\D1313.dll
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.pdb
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\D1313.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D1313\D1313\obj\Debug\net6.0\ref\D1313.dll

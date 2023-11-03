@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D9\D11-svårast\bin\Debug\net6.0\D11-svårast.exe
+C:\Users\Hampus\source\repos\D9\D11-svårast\bin\Debug\net6.0\D11-svårast.deps.json
+C:\Users\Hampus\source\repos\D9\D11-svårast\bin\Debug\net6.0\D11-svårast.runtimeconfig.json
+C:\Users\Hampus\source\repos\D9\D11-svårast\bin\Debug\net6.0\D11-svårast.dll
+C:\Users\Hampus\source\repos\D9\D11-svårast\bin\Debug\net6.0\D11-svårast.pdb
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.dll
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\refint\D11-svårast.dll
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.pdb
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\D11-svårast.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D9\D11-svårast\obj\Debug\net6.0\ref\D11-svårast.dll

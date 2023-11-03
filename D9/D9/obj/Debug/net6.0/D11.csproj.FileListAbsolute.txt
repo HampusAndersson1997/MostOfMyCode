@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D9\D9\bin\Debug\net6.0\D11.exe
+C:\Users\Hampus\source\repos\D9\D9\bin\Debug\net6.0\D11.deps.json
+C:\Users\Hampus\source\repos\D9\D9\bin\Debug\net6.0\D11.runtimeconfig.json
+C:\Users\Hampus\source\repos\D9\D9\bin\Debug\net6.0\D11.dll
+C:\Users\Hampus\source\repos\D9\D9\bin\Debug\net6.0\D11.pdb
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.dll
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\refint\D11.dll
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.pdb
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\D11.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D9\D9\obj\Debug\net6.0\ref\D11.dll

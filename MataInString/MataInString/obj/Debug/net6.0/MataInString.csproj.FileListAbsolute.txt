@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\MataInString\MataInString\bin\Debug\net6.0\MataInString.exe
+C:\Users\Hampus\source\repos\MataInString\MataInString\bin\Debug\net6.0\MataInString.deps.json
+C:\Users\Hampus\source\repos\MataInString\MataInString\bin\Debug\net6.0\MataInString.runtimeconfig.json
+C:\Users\Hampus\source\repos\MataInString\MataInString\bin\Debug\net6.0\MataInString.dll
+C:\Users\Hampus\source\repos\MataInString\MataInString\bin\Debug\net6.0\MataInString.pdb
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.dll
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\refint\MataInString.dll
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.pdb
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\MataInString.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\MataInString\MataInString\obj\Debug\net6.0\ref\MataInString.dll

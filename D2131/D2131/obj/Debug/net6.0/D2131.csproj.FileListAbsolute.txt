@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D2131\D2131\bin\Debug\net6.0\D2131.exe
+C:\Users\Hampus\source\repos\D2131\D2131\bin\Debug\net6.0\D2131.deps.json
+C:\Users\Hampus\source\repos\D2131\D2131\bin\Debug\net6.0\D2131.runtimeconfig.json
+C:\Users\Hampus\source\repos\D2131\D2131\bin\Debug\net6.0\D2131.dll
+C:\Users\Hampus\source\repos\D2131\D2131\bin\Debug\net6.0\D2131.pdb
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.dll
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\refint\D2131.dll
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.pdb
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\D2131.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D2131\D2131\obj\Debug\net6.0\ref\D2131.dll

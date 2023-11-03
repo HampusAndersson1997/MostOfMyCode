@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\bin\Debug\net7.0\RefaktoreringLatin.exe
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\bin\Debug\net7.0\RefaktoreringLatin.deps.json
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\bin\Debug\net7.0\RefaktoreringLatin.runtimeconfig.json
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\bin\Debug\net7.0\RefaktoreringLatin.dll
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\bin\Debug\net7.0\RefaktoreringLatin.pdb
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.dll
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\refint\RefaktoreringLatin.dll
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.pdb
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\RefaktoreringLatin.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\RefaktoreringLatin\RefaktoreringLatin\obj\Debug\net7.0\ref\RefaktoreringLatin.dll

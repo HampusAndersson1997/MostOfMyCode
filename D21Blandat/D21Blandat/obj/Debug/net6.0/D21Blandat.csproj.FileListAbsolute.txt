@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\bin\Debug\net6.0\D21Blandat.exe
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\bin\Debug\net6.0\D21Blandat.deps.json
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\bin\Debug\net6.0\D21Blandat.runtimeconfig.json
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\bin\Debug\net6.0\D21Blandat.dll
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\bin\Debug\net6.0\D21Blandat.pdb
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.dll
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\refint\D21Blandat.dll
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.pdb
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\D21Blandat.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D21Blandat\D21Blandat\obj\Debug\net6.0\ref\D21Blandat.dll

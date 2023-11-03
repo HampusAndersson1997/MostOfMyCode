@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\Typecast\OK\bin\Debug\net6.0\OK.exe
+C:\Users\Hampus\source\repos\Typecast\OK\bin\Debug\net6.0\OK.deps.json
+C:\Users\Hampus\source\repos\Typecast\OK\bin\Debug\net6.0\OK.runtimeconfig.json
+C:\Users\Hampus\source\repos\Typecast\OK\bin\Debug\net6.0\OK.dll
+C:\Users\Hampus\source\repos\Typecast\OK\bin\Debug\net6.0\OK.pdb
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.dll
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\refint\OK.dll
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.pdb
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\OK.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\Typecast\OK\obj\Debug\net6.0\ref\OK.dll

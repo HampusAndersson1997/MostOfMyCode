@@ -1,0 +1,14 @@
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.AssemblyInfoInputs.cache
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.AssemblyInfo.cs
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.csproj.CoreCompileInputs.cache
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\bin\Debug\net6.0\D23DeLuxe.exe
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\bin\Debug\net6.0\D23DeLuxe.deps.json
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\bin\Debug\net6.0\D23DeLuxe.runtimeconfig.json
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\bin\Debug\net6.0\D23DeLuxe.dll
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\bin\Debug\net6.0\D23DeLuxe.pdb
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.dll
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\refint\D23DeLuxe.dll
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.pdb
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\D23DeLuxe.genruntimeconfig.cache
+C:\Users\Hampus\source\repos\D23DeLuxe\D23DeLuxe\obj\Debug\net6.0\ref\D23DeLuxe.dll
